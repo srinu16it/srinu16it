@@ -1,6 +1,6 @@
 # Srinivas Merugu
 
-**Engineering leader who still ships.** Principal Engineering Manager & Data Architect (12+ years, finance data engineering) — and the solo builder of a multi-agent LLM runtime. I build systems that let AI act safely in the real world.
+**Builder first.** Hands-on Principal-level engineer & Data Architect (12+ years of data engineering in finance) — solo builder of a multi-agent LLM runtime. I build systems that let AI act safely in the real world.
 
 Most recently, solo: a production-shaped **multi-agent AI runtime** — an LLM assistant with 29 tools over WhatsApp, 16 always-on backend services, and guarded execution against live financial accounts. The design rule that makes it safe: **the model proposes, deny-by-default gated code disposes.** The LLM never places an order or runs git.
 
@@ -21,4 +21,4 @@ Most recently, solo: a production-shaped **multi-agent AI runtime** — an LLM a
 
 **Stack:** Node.js · Python · LLM tool-use & structured output · SQLite · pm2
 
-*Open to senior AI-systems and engineering-leadership roles — including forward-deployed work (shipping AI into real environments is exactly what this system is).*
+*Open to senior/staff AI-systems engineering roles (individual contributor) — including forward-deployed work (shipping AI into real environments is exactly what this system is).*
