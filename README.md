@@ -1,3 +1,5 @@
+<img src="https://arinflow.com/logo.svg" width="64" align="left" alt="ARIN Flow-A logo" />
+
 # Srinivas Merugu
 
 **Builder first.** Hands-on Principal-level engineer & Data Architect (12+ years of data engineering in finance) — solo builder of a multi-agent LLM runtime. I build systems that let AI act safely in the real world.
