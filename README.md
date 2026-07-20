@@ -23,4 +23,4 @@ Most recently, solo: a production-shaped **multi-agent AI runtime** — an LLM a
 
 **Stack:** Node.js · Python · LLM tool-use & structured output · SQLite · pm2
 
-*Open to senior/staff AI-systems engineering roles (individual contributor) — including forward-deployed work (shipping AI into real environments is exactly what this system is).*
+*Always happy to compare notes on agent reliability, tool-use safety, and shipping AI into real environments — reach me on [LinkedIn](https://www.linkedin.com/in/srinimerugu/).*
